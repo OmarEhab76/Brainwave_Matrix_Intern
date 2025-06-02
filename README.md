@@ -39,7 +39,7 @@ With increasing market competition, a Superstore is looking to make data-informe
 
 ---
 
-## 📌 Key Insights
+## 📌Some Key Insights
 
 1. 📈 **Monthly Sales Boom Post-July 2017:**
    Sales volume increased significantly after July 2017. However, **profit did not increase proportionally**, suggesting discounts or cost issues.
